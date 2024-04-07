@@ -1,10 +1,10 @@
 [package]
-name = "c-defines-to-enum"
+name = "c_defines_to_enum"
 version = "0.1.0"
 authors = ["Shiroko <hhx.xxm@gmail.com>"]
-description = "A procedural macro for generate enum from C defines statement"
-# homepage = "https://github.com/Oyami-Srk/c-defines-to-enum"
-# repository = "https://github.com/Oyami-Srk/c-defines-to-enum"
+description = "A procedural macro for generate enum from C defines statement."
+homepage = "https://github.com/Oyami-Srk/c-defines-to-enum"
+repository = "https://github.com/Oyami-Srk/c-defines-to-enum"
 keywords = ["c", "proc_macro", "procmacro", "no_std"]
 edition = "2018"
 license = "MIT"
