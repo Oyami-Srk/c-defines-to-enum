@@ -228,7 +228,5 @@ pub fn parse_c_defines_to_enum(input: TokenStream) -> TokenStream {
         }
     };
 
-    // println!("{}", token_stream.to_string());
-
     token_stream.into()
 }
