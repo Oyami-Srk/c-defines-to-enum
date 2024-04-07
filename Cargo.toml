@@ -1,6 +1,6 @@
 [package]
 name = "c_defines_to_enum"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Shiroko <hhx.xxm@gmail.com>"]
 description = "A procedural macro for generate enum from C defines statement."
 homepage = "https://github.com/Oyami-Srk/c-defines-to-enum"
